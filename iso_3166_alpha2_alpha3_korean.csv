@@ -1,0 +1,256 @@
+﻿Country,al2,al3,Numeric code,Latitude (average),Longitude (average),kr_name
+Afghanistan,AF,AFG,4,33.0,65.0,아프가니스탄
+Albania,AL,ALB,8,41.0,20.0,알바니아
+Algeria,DZ,DZA,12,28.0,3.0,알제리
+American Samoa,AS,ASM,16,-14.3333,-170.0,아메리칸사모아
+Andorra,AD,AND,20,42.5,1.6,안도라
+Angola,AO,AGO,24,-12.5,18.5,앙골라
+Anguilla,AI,AIA,660,18.25,-63.1667,앵귈라
+Antarctica,AQ,ATA,10,-90.0,0.0,남극
+Antigua and Barbuda,AG,ATG,28,17.05,-61.8,앤티가 바부다
+Argentina,AR,ARG,32,-34.0,-64.0,아르헨티나
+Armenia,AM,ARM,51,40.0,45.0,아르메니아
+Aruba,AW,ABW,533,12.5,-69.9667,아루바
+Australia,AU,AUS,36,-27.0,133.0,오스트레일리아
+Austria,AT,AUT,40,47.3333,13.3333,오스트리아
+Azerbaijan,AZ,AZE,31,40.5,47.5,아제르바이잔
+Bahamas,BS,BHS,44,24.25,-76.0,바하마
+Bahrain,BH,BHR,48,26.0,50.55,바레인
+Bangladesh,BD,BGD,50,24.0,90.0,방글라데시
+Barbados,BB,BRB,52,13.1667,-59.5333,바베이도스
+Belarus,BY,BLR,112,53.0,28.0,벨라루스
+Belgium,BE,BEL,56,50.8333,4.0,벨기에
+Belize,BZ,BLZ,84,17.25,-88.75,벨리즈
+Benin,BJ,BEN,204,9.5,2.25,베냉
+Bermuda,BM,BMU,60,32.3333,-64.75,버뮤다
+Bhutan,BT,BTN,64,27.5,90.5,부탄
+"Bolivia, Plurinational State of",BO,BOL,68,-17.0,-65.0,볼리비아
+Bolivia,BO,BOL,68,-17.0,-65.0,볼리비아
+Bosnia and Herzegovina,BA,BIH,70,44.0,18.0,보스니아 헤르체고비나
+Botswana,BW,BWA,72,-22.0,24.0,보츠와나
+Bouvet Island,BV,BVT,74,-54.4333,3.4,부베 섬
+Brazil,BR,BRA,76,-10.0,-55.0,브라질
+British Indian Ocean Territory,IO,IOT,86,-6.0,71.5,영국령 인도양 지역
+Brunei Darussalam,BN,BRN,96,4.5,114.6667,브루나이
+Brunei,BN,BRN,96,4.5,114.6667,브루나이
+Bulgaria,BG,BGR,100,43.0,25.0,불가리아
+Burkina Faso,BF,BFA,854,13.0,-2.0,부르키나파소
+Burundi,BI,BDI,108,-3.5,30.0,부룬디
+Cambodia,KH,KHM,116,13.0,105.0,캄보디아
+Cameroon,CM,CMR,120,6.0,12.0,카메룬
+Canada,CA,CAN,124,60.0,-95.0,캐나다
+Cape Verde,CV,CPV,132,16.0,-24.0,카보베르데
+Cayman Islands,KY,CYM,136,19.5,-80.5,케이맨 제도
+Central African Republic,CF,CAF,140,7.0,21.0,중앙아프리카 공화국
+Chad,TD,TCD,148,15.0,19.0,차드
+Chile,CL,CHL,152,-30.0,-71.0,칠레
+China,CN,CHN,156,35.0,105.0,중화인민공화국
+Christmas Island,CX,CXR,162,-10.5,105.6667,크리스마스 섬
+Cocos (Keeling) Islands,CC,CCK,166,-12.5,96.8333,코코스 제도
+Colombia,CO,COL,170,4.0,-72.0,콜롬비아
+Comoros,KM,COM,174,-12.1667,44.25,코모로
+Congo,CG,COG,178,-1.0,15.0,콩고 공 화국
+"Congo, the Democratic Republic of the",CD,COD,180,0.0,25.0,콩고 민주 공화국
+Cook Islands,CK,COK,184,-21.2333,-159.7667,쿡 제도
+Costa Rica,CR,CRI,188,10.0,-84.0,코스타리카
+Côte d'Ivoire,CI,CIV,384,8.0,-5.0,코트디부아르
+Ivory Coast,CI,CIV,384,8.0,-5.0,코트디부아르
+Croatia,HR,HRV,191,45.1667,15.5,크로아티아
+Cuba,CU,CUB,192,21.5,-80.0,쿠바
+Cyprus,CY,CYP,196,35.0,33.0,키프로스
+Czech Republic,CZ,CZE,203,49.75,15.5,체코
+Denmark,DK,DNK,208,56.0,10.0,덴마크
+Djibouti,DJ,DJI,262,11.5,43.0,지부티
+Dominica,DM,DMA,212,15.4167,-61.3333,도미니카 연방
+Dominican Republic,DO,DOM,214,19.0,-70.6667,도미니카 공화국
+Ecuador,EC,ECU,218,-2.0,-77.5,에콰도 르
+Egypt,EG,EGY,818,27.0,30.0,이집트
+El Salvador,SV,SLV,222,13.8333,-88.9167,엘살바도르
+Equatorial Guinea,GQ,GNQ,226,2.0,10.0,적도 기니
+Eritrea,ER,ERI,232,15.0,39.0,에리트레아
+Estonia,EE,EST,233,59.0,26.0,에스토니아
+Ethiopia,ET,ETH,231,8.0,38.0,에티오피아
+Falkland Islands (Malvinas),FK,FLK,238,-51.75,-59.0,포클랜드 제도
+Faroe Islands,FO,FRO,234,62.0,-7.0,페로 제도
+Fiji,FJ,FJI,242,-18.0,175.0,피지
+Finland,FI,FIN,246,64.0,26.0, 핀란드
+France,FR,FRA,250,46.0,2.0,프랑스
+French Guiana,GF,GUF,254,4.0,-53.0,프랑스령 기아나
+French Polynesia,PF,PYF,258,-15.0,-140.0,프랑스령 폴리네시아
+French Southern Territories,TF,ATF,260,-43.0,67.0,프랑스령 남방 및 남극
+Gabon,GA,GAB,266,-1.0,11.75,가봉
+Gambia,GM,GMB,270,13.4667,-16.5667,감비아
+Georgia,GE,GEO,268,42.0,43.5,조지아
+Germany,DE,DEU,276,51.0,9.0,독일
+Ghana,GH,GHA,288,8.0,-2.0,가나
+Gibraltar,GI,GIB,292,36.1833,-5.3667,지브롤터
+Greece,GR,GRC,300,39.0,22.0,그리스
+Greenland,GL,GRL,304,72.0,-40.0,그린란드
+Grenada,GD,GRD,308,12.1167,-61.6667,그레나다
+Guadeloupe,GP,GLP,312,16.25,-61.5833,과들루프
+Guam,GU,GUM,316,13.4667,144.7833,괌
+Guatemala,GT,GTM,320,15.5,-90.25,과테말라
+Guernsey,GG,GGY,831,49.5,-2.56,건지 섬
+Guinea,GN,GIN,324,11.0,-10.0,기니
+Guinea-Bissau,GW,GNB,624,12.0,-15.0,기니비사우
+Guyana,GY,GUY,328,5.0,-59.0,가이아나
+Haiti,HT,HTI,332,19.0,-72.4167,아이티
+Heard Island and McDonald Islands,HM,HMD,334,-53.1,72.5167,허드 맥도널드 제도
+Holy See (Vatican City State),VA,VAT,336,41.9,12.45,바티칸 시국
+Honduras,HN,HND,340,15.0,-86.5,온두라스
+Hong Kong,HK,HKG,344,22.25,114.1667,홍콩
+Hungary,HU,HUN,348,47.0,20.0,헝가리
+Iceland,IS,ISL,352,65.0,-18.0,아이슬란드
+India,IN,IND,356,20.0,77.0,인도
+Indonesia,ID,IDN,360,-5.0,120.0,인도네시아
+"Iran, Islamic Republic of",IR,IRN,364,32.0,53.0,이란
+Iraq,IQ,IRQ,368,33.0,44.0,이라크
+Ireland,IE,IRL,372,53.0,-8.0,아일랜드
+Isle of Man,IM,IMN,833,54.23,-4.55,맨 섬
+Israel,IL,ISR,376,31.5,34.75,이스라엘
+Italy,IT,ITA,380,42.8333,12.8333,이탈리아
+Jamaica,JM,JAM,388,18.25,-77.5,자메이카
+Japan,JP,JPN,392,36.0,138.0,일본
+Jersey,JE,JEY,832,49.21,-2.13,저지 섬
+Jordan,JO,JOR,400,31.0,36.0,요르단
+Kazakhstan,KZ,KAZ,398,48.0,68.0,카자흐스탄
+Kenya,KE,KEN,404,1.0,38.0,케냐
+Kiribati,KI,KIR,296,1.4167,173.0,키리바시
+"Korea, Democratic People's Republic of",KP,PRK,408,40.0,127.0,조선민주주의인민공화국
+"Korea, Republic of",KR,KOR,410,37.0,127.5,대한민국
+South Korea,KR,KOR,410,37.0,127.5,대한민국
+Kuwait,KW,KWT,414,29.3375,47.6581,쿠웨이트
+Kyrgyzstan,KG,KGZ,417,41.0,75.0,키르기스스탄
+Lao People's Democratic Republic,LA,LAO,418,18.0,105.0,라오스
+Latvia,LV,LVA,428,57.0,25.0,라트비아
+Lebanon,LB,LBN,422,33.8333,35.8333,레바논
+Lesotho,LS,LSO,426,-29.5,28.5,레소토
+Liberia,LR,LBR,430,6.5,-9.5,라이베리아
+Libyan Arab Jamahiriya,LY,LBY,434,25.0,17.0,리비아
+Libya,LY,LBY,434,25.0,17.0,리비아
+Liechtenstein,LI,LIE,438,47.1667,9.5333,리히텐슈타인
+Lithuania,LT,LTU,440,56.0,24.0,리투아니아
+Luxembourg,LU,LUX,442,49.75,6.1667,룩셈부르크
+Macao,MO,MAC,446,22.1667,113.55,마카오
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,41.8333,22.0,마케도니아 공화국
+Madagascar,MG,MDG,450,-20.0,47.0,마다가스카르
+Malawi,MW,MWI,454,-13.5,34.0,말라위
+Malaysia,MY,MYS,458,2.5,112.5,말레이시 아
+Maldives,MV,MDV,462,3.25,73.0,몰디브
+Mali,ML,MLI,466,17.0,-4.0,말리
+Malta,MT,MLT,470,35.8333,14.5833,몰타
+Marshall Islands,MH,MHL,584,9.0,168.0,마셜 제도
+Martinique,MQ,MTQ,474,14.6667,-61.0,마르티니크
+Mauritania,MR,MRT,478,20.0,-12.0,모리타니
+Mauritius,MU,MUS,480,-20.2833,57.55,모리셔스
+Mayotte,YT,MYT,175,-12.8333,45.1667,마요트
+Mexico,MX,MEX,484,23.0,-102.0,멕시코
+"Micronesia, Federated States of",FM,FSM,583,6.9167,158.25,미크로네시아 연방
+"Moldova, Republic of",MD,MDA,498,47.0,29.0,몰도바
+Monaco,MC,MCO,492,43.7333,7.4,모나코
+Mongolia,MN,MNG,496,46.0,105.0,몽골
+Montenegro,ME,MNE,499,42.0,19.0,몬테네그로
+Montserrat,MS,MSR,500,16.75,-62.2,몬트세랫
+Morocco,MA,MAR,504,32.0,-5.0,모로코
+Mozambique,MZ,MOZ,508,-18.25,35.0,모잠비크
+Myanmar,MM,MMR,104,22.0,98.0,미얀마
+Burma,MM,MMR,104,22.0,98.0,미얀마
+Nauru,NR,NRU,520,-0.5333,166.9167,나우루
+Nepal,NP,NPL,524,28.0,84.0,네팔
+Netherlands,NL,NLD,528,52.5,5.75,네덜란드
+Netherlands Antilles,AN,ANT,530,12.25,-68.75,네덜란드령 안틸레스
+New Caledonia,NC,NCL,540,-21.5,165.5,누벨칼레도니
+New Zealand,NZ,NZL,554,-41.0,174.0,뉴질랜드
+Nicaragua,NI,NIC,558,13.0,-85.0,니카라 과
+Niger,NE,NER,562,16.0,8.0,니제르
+Nigeria,NG,NGA,566,10.0,8.0,나이지리아
+Niue,NU,NIU,570,-19.0333,-169.8667,니우에
+Norfolk Island,NF,NFK,574,-29.0333,167.95,노퍽 섬
+Northern Mariana Islands,MP,MNP,580,15.2,145.75,북마리아나 제도
+Norway,NO,NOR,578,62.0,10.0,노르웨이
+Oman,OM,OMN,512,21.0,57.0,오만
+Pakistan,PK,PAK,586,30.0,70.0,파키스탄
+Palau,PW,PLW,585,7.5,134.5,팔라우
+"Palestinian Territory, Occupied",PS,PSE,275,32.0,35.25,팔레스타인
+Panama,PA,PAN,591,9.0,-80.0,파나마
+Papua New Guinea,PG,PNG,598,-6.0,147.0,파푸아뉴기니
+Paraguay,PY,PRY,600,-23.0,-58.0,파라과이
+Peru,PE,PER,604,-10.0,-76.0,페루
+Philippines,PH,PHL,608,13.0,122.0,필리핀
+Pitcairn,PN,PCN,612,-24.7,-127.4,핏케언 제도
+Poland,PL,POL,616,52.0,20.0,폴란드
+Portugal,PT,PRT,620,39.5,-8.0,포르투갈
+Puerto Rico,PR,PRI,630,18.25,-66.5,푸에르토리코
+Qatar,QA,QAT,634,25.5,51.25,카타르
+Réunion,RE,REU,638,-21.1,55.6,레위니옹
+Romania,RO,ROU,642,46.0,25.0,루마니 아
+Russian Federation,RU,RUS,643,60.0,100.0,러시아
+Russia,RU,RUS,643,60.0,100.0,러시아
+Rwanda,RW,RWA,646,-2.0,30.0,르완다
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,654,-15.9333,-5.7,세인트헬레나
+Saint Kitts and Nevis,KN,KNA,659,17.3333,-62.75,세인트키츠 네비스
+Saint Lucia,LC,LCA,662,13.8833,-61.1333,세인트루시아
+Saint Pierre and Miquelon,PM,SPM,666,46.8333,-56.3333,생피에르 미클롱
+Saint Vincent and the Grenadines,VC,VCT,670,13.25,-61.2,세인트빈센트 그레나딘
+Saint Vincent & the Grenadines,VC,VCT,670,13.25,-61.2,세인트빈센트 그레나딘
+St. Vincent and the Grenadines,VC,VCT,670,13.25,-61.2,세인트빈센트 그레나딘
+Samoa,WS,WSM,882,-13.5833,-172.3333,사모아
+San Marino,SM,SMR,674,43.7667,12.4167,산마리노
+Sao Tome and Principe,ST,STP,678,1.0,7.0,상투메 프린시페
+Saudi Arabia,SA,SAU,682,25.0,45.0,사우디아라비아
+Senegal,SN,SEN,686,14.0,-14.0,세네갈
+Serbia,RS,SRB,688,44.0,21.0,세르비아
+Seychelles,SC,SYC,690,-4.5833,55.6667,세이셸
+Sierra Leone,SL,SLE,694,8.5,-11.5,시에라리온
+Singapore,SG,SGP,702,1.3667,103.8,싱가포르
+Slovakia,SK,SVK,703,48.6667,19.5,슬로바키아
+Slovenia,SI,SVN,705,46.0,15.0,슬로베니아
+Solomon Islands,SB,SLB,90,-8.0,159.0,솔로몬 제도
+Somalia,SO,SOM,706,10.0,49.0,소말리아
+South Africa,ZA,ZAF,710,-29.0,24.0,남아프리카 공화국
+South Georgia and the South Sandwich Islands,GS,SGS,239,-54.5,-37.0,사우스조지아 사우스샌드위치 제도
+Spain,ES,ESP,724,40.0,-4.0,스페인
+Sri Lanka,LK,LKA,144,7.0,81.0,스리랑카
+Sudan,SD,SDN,736,15.0,30.0,수단
+Suriname,SR,SUR,740,4.0,-56.0,수리남
+Svalbard and Jan Mayen,SJ,SJM,744,78.0,20.0,스발바르 얀마옌
+Swaziland,SZ,SWZ,748,-26.5,31.5,스와질란드
+Sweden,SE,SWE,752,62.0,15.0,스웨덴
+Switzerland,CH,CHE,756,47.0,8.0,스위스
+Syrian Arab Republic,SY,SYR,760,35.0,38.0,시리아
+"Taiwan, Province of China",TW,TWN,158,23.5,121.0,중화민국
+Taiwan,TW,TWN,158,23.5,121.0,중화민국
+Tajikistan,TJ,TJK,762,39.0,71.0,타지키스탄
+"Tanzania, United Republic of",TZ,TZA,834,-6.0,35.0,탄자니아
+Thailand,TH,THA,764,15.0,100.0,타이
+Timor-Leste,TL,TLS,626,-8.55,125.5167,동티모르
+Togo,TG,TGO,768,8.0,1.1667,토고
+Tokelau,TK,TKL,772,-9.0,-172.0,토켈라우
+Tonga,TO,TON,776,-20.0,-175.0,통가
+Trinidad and Tobago,TT,TTO,780,11.0,-61.0,트리니다드 토바고
+Trinidad & Tobago,TT,TTO,780,11.0,-61.0,트리니다드 토바고
+Tunisia,TN,TUN,788,34.0,9.0,튀니지
+Turkey,TR,TUR,792,39.0,35.0,터키
+Turkmenistan,TM,TKM,795,40.0,60.0,투르크메니스탄
+Turks and Caicos Islands,TC,TCA,796,21.75,-71.5833,터크스 케 이커스 제도
+Tuvalu,TV,TUV,798,-8.0,178.0,투발루
+Uganda,UG,UGA,800,1.0,32.0,우간다
+Ukraine,UA,UKR,804,49.0,32.0,우크라이나
+United Arab Emirates,AE,ARE,784,24.0,54.0,아랍에미리트
+United Kingdom,GB,GBR,826,54.0,-2.0,영국
+United States,US,USA,840,38.0,-97.0,미국
+United States Minor Outlying Islands,UM,UMI,581,19.2833,166.6,미 국령 군소 제도
+Uruguay,UY,URY,858,-33.0,-56.0,우루과이
+Uzbekistan,UZ,UZB,860,41.0,64.0,우즈베키스탄
+Vanuatu,VU,VUT,548,-16.0,167.0,바누아투
+"Venezuela, Bolivarian Republic of",VE,VEN,862,8.0,-66.0,베네수엘라
+Venezuela,VE,VEN,862,8.0,-66.0,베네수엘라
+Viet Nam,VN,VNM,704,16.0,106.0,베트남
+Vietnam,VN,VNM,704,16.0,106.0,베트남
+"Virgin Islands, British",VG,VGB,92,18.5,-64.5,영국령 버진아일랜드
+"Virgin Islands, U.S.",VI,VIR,850,18.3333,-64.8333,미국령 버진아일랜드
+Wallis and Futuna,WF,WLF,876,-13.3,-176.2,왈리스 퓌튀나
+Western Sahara,EH,ESH,732,24.5,-13.0,서사하라
+Yemen,YE,YEM,887,15.0,48.0,예멘
+Zambia,ZM,ZMB,894,-15.0,30.0,잠비아
+Zimbabwe,ZW,ZWE,716,-20.0,30.0,짐바브웨
